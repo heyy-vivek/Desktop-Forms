@@ -1,0 +1,22 @@
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\Slidely_AI_task_2.Form1.resources
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\Slidely_AI_task_2.Form2.resources
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\Slidely_AI_task_2.Form3.resources
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\Slidely AI task 2.vbproj.GenerateResource.cache
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\Slidely AI task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\Slidely AI task 2.AssemblyInfoInputs.cache
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\Slidely AI task 2.AssemblyInfo.vb
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\Slidely AI task 2.vbproj.CoreCompileInputs.cache
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\bin\Debug\net8.0-windows\Slidely AI task 2.exe
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\bin\Debug\net8.0-windows\Slidely AI task 2.deps.json
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\bin\Debug\net8.0-windows\Slidely AI task 2.runtimeconfig.json
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\bin\Debug\net8.0-windows\Slidely AI task 2.dll
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\bin\Debug\net8.0-windows\Slidely AI task 2.pdb
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\Slidely AI task 2.vbproj.AssemblyReference.cache
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\Slidely .9EADE22A.Up2Date
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\Slidely AI task 2.dll
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\refint\Slidely AI task 2.dll
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\Slidely AI task 2.pdb
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\Slidely AI task 2.genruntimeconfig.cache
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\ref\Slidely AI task 2.dll
+C:\Users\vivek\source\repos\Slidely AI task 2\Slidely AI task 2\obj\Debug\net8.0-windows\Slidely_AI_task_2.Form4.resources

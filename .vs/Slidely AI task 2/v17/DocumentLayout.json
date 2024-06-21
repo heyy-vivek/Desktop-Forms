@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|c:\\users\\vivek\\source\\repos\\slidely ai task 2\\slidely ai task 2\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|solutionrelative:slidely ai task 2\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|c:\\users\\vivek\\source\\repos\\slidely ai task 2\\slidely ai task 2\\form4.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|solutionrelative:slidely ai task 2\\form4.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|c:\\users\\vivek\\source\\repos\\slidely ai task 2\\slidely ai task 2\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|solutionrelative:slidely ai task 2\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|c:\\users\\vivek\\source\\repos\\slidely ai task 2\\slidely ai task 2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|solutionrelative:slidely ai task 2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|c:\\users\\vivek\\source\\repos\\slidely ai task 2\\slidely ai task 2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|solutionrelative:slidely ai task 2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|c:\\users\\vivek\\source\\repos\\slidely ai task 2\\slidely ai task 2\\form3.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|solutionrelative:slidely ai task 2\\form3.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|c:\\users\\vivek\\source\\repos\\slidely ai task 2\\slidely ai task 2\\form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|solutionrelative:slidely ai task 2\\form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|c:\\users\\vivek\\source\\repos\\slidely ai task 2\\slidely ai task 2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|solutionrelative:slidely ai task 2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|c:\\users\\vivek\\source\\repos\\slidely ai task 2\\slidely ai task 2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|solutionrelative:slidely ai task 2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|c:\\users\\vivek\\source\\repos\\slidely ai task 2\\slidely ai task 2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|solutionrelative:slidely ai task 2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|c:\\users\\vivek\\source\\repos\\slidely ai task 2\\slidely ai task 2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|solutionrelative:slidely ai task 2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|c:\\users\\vivek\\source\\repos\\slidely ai task 2\\slidely ai task 2\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|solutionrelative:slidely ai task 2\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|c:\\users\\vivek\\source\\repos\\slidely ai task 2\\slidely ai task 2\\roundedbutton.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{17CF9FF6-F0EE-444C-B80D-F71098F3C3D3}|Slidely AI task 2\\Slidely AI task 2.vbproj|solutionrelative:slidely ai task 2\\roundedbutton.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form4.vb",
+              "RelativeDocumentMoniker": "Slidely AI task 2\\Form4.vb",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form4.vb [Design]",
+              "RelativeToolTip": "Slidely AI task 2\\Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T04:16:32.552Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form4.Designer.vb",
+              "RelativeDocumentMoniker": "Slidely AI task 2\\Form4.Designer.vb",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form4.Designer.vb",
+              "RelativeToolTip": "Slidely AI task 2\\Form4.Designer.vb",
+              "ViewState": "AQIAANYAAAAAUGZmZmbwv9oAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T04:47:36.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Slidely AI task 2\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form1.Designer.vb",
+              "RelativeToolTip": "Slidely AI task 2\\Form1.Designer.vb",
+              "ViewState": "AQIAAFMAAAAA2P/////9v10AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T17:10:07.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form3.vb",
+              "RelativeDocumentMoniker": "Slidely AI task 2\\Form3.vb",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form3.vb [Design]",
+              "RelativeToolTip": "Slidely AI task 2\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T03:11:17.916Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form3.vb",
+              "RelativeDocumentMoniker": "Slidely AI task 2\\Form3.vb",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form3.vb",
+              "RelativeToolTip": "Slidely AI task 2\\Form3.vb",
+              "ViewState": "AQIAADgAAAAAAAAAAAAMwEQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T18:01:38.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form3.Designer.vb",
+              "RelativeDocumentMoniker": "Slidely AI task 2\\Form3.Designer.vb",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form3.Designer.vb",
+              "RelativeToolTip": "Slidely AI task 2\\Form3.Designer.vb",
+              "ViewState": "AQIAAK8AAAAAODMzMzMTwMUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T18:03:52.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form2.Designer.vb",
+              "RelativeDocumentMoniker": "Slidely AI task 2\\Form2.Designer.vb",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form2.Designer.vb",
+              "RelativeToolTip": "Slidely AI task 2\\Form2.Designer.vb",
+              "ViewState": "AQIAALwAAAAAyDMzMzP3v8MAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T07:58:04.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form2.vb",
+              "RelativeDocumentMoniker": "Slidely AI task 2\\Form2.vb",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form2.vb",
+              "RelativeToolTip": "Slidely AI task 2\\Form2.vb",
+              "ViewState": "AQIAAFkAAAAAmpmZmZklwIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T07:21:18.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form2.vb",
+              "RelativeDocumentMoniker": "Slidely AI task 2\\Form2.vb",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form2.vb [Design]",
+              "RelativeToolTip": "Slidely AI task 2\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T07:19:17.796Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form1.vb",
+              "RelativeDocumentMoniker": "Slidely AI task 2\\Form1.vb",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form1.vb [Design]",
+              "RelativeToolTip": "Slidely AI task 2\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T17:56:58.874Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form1.vb",
+              "RelativeDocumentMoniker": "Slidely AI task 2\\Form1.vb",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form1.vb",
+              "RelativeToolTip": "Slidely AI task 2\\Form1.vb",
+              "ViewState": "AQIAAEIAAACgMDMzMzMqwFUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T05:00:51.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form4.vb",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form4.vb",
+              "RelativeDocumentMoniker": "Slidely AI task 2\\Form4.vb",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\Form4.vb",
+              "RelativeToolTip": "Slidely AI task 2\\Form4.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T04:24:27.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoundedButton.vb",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\RoundedButton.vb",
+              "RelativeDocumentMoniker": "Slidely AI task 2\\RoundedButton.vb",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\Slidely AI task 2\\Slidely AI task 2\\RoundedButton.vb",
+              "RelativeToolTip": "Slidely AI task 2\\RoundedButton.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T17:30:03.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
